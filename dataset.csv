@@ -1,0 +1,67 @@
+file_type,cipher,is_binary
+.txt,Caesar Cipher,FALSE
+.jpg,DES,TRUE
+.png,DES,TRUE
+.docx,RSA,TRUE
+.pdf,RSA,TRUE
+.mp3,DES,TRUE
+.mp4,DES,TRUE
+.exe,RSA,TRUE
+.zip,DES,TRUE
+.csv,Monoalphabetic cipher,FALSE
+.json,Monoalphabetic cipher,FALSE
+.xml,Monoalphabetic cipher,FALSE
+.html,Polyalphabetic Cipher,FALSE
+.css,Polyalphabetic Cipher,FALSE
+.js,Polyalphabetic Cipher,FALSE
+.tar,DES,TRUE
+.avi,DES,TRUE
+.mov,DES,TRUE
+.wav,DES,TRUE
+.sqlite,DES,TRUE
+.apk,RSA,TRUE
+.flv,DES,TRUE
+.odt,RSA,TRUE
+.pptx,RSA,TRUE
+.rtf,Monoalphabetic cipher,FALSE
+.yaml,Caesar Cipher,FALSE
+.md,Caesar Cipher,FALSE
+.sql,Caesar Cipher,FALSE
+.bmp,DES,TRUE
+.gif,DES,TRUE
+.psd,RSA,TRUE
+.7z,DES,TRUE
+.tar.gz,DES,TRUE
+.iso,DES,TRUE
+.mpg,DES,TRUE
+.mkv,DES,TRUE
+.flac,DES,TRUE
+.ttf,DES,TRUE
+.woff,DES,TRUE
+.otf,DES,TRUE
+.ico,DES,TRUE
+.torrent,RSA,TRUE
+.vcd,DES,TRUE
+.dat,DES,TRUE
+.jar,RSA,TRUE
+.swf,RSA,TRUE
+.nfo,Caesar Cipher,FALSE
+.ini,Caesar Cipher,FALSE
+.log,Caesar Cipher,FALSE
+.bak,DES,TRUE
+.xz,DES,TRUE
+.tgz,DES,TRUE
+.rpm,DES,TRUE
+.deb,DES,TRUE
+.bin,DES,TRUE
+.cue,Caesar Cipher,FALSE
+.pdb,RSA,TRUE
+.ps1,Polyalphabetic Cipher,FALSE
+.py,Polyalphabetic Cipher,FALSE
+.sh,Polyalphabetic Cipher,FALSE
+.rb,Polyalphabetic Cipher,FALSE
+.php,Polyalphabetic Cipher,FALSE
+.cpp,Polyalphabetic Cipher,FALSE
+.c,Polyalphabetic Cipher,FALSE
+.h,Polyalphabetic Cipher,FALSE
+.3gp,DES,TRUE
