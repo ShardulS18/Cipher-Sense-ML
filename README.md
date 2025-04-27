@@ -65,8 +65,12 @@ npm install
 cd ../backend
 pip install -r requirements.txt
 
-# Start the application
+# Run and Train the model
 python app.py
+
+# Start the React App
+cd encryption-frontend
+npm start
 ```
 
 ## Usage 📋
